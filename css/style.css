@@ -1926,3 +1926,7 @@ button:not(:disabled) {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.education-badge {
+width: 150px !important;
+}
